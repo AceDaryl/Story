@@ -1,1 +1,2 @@
 This is just a sample chapter 3 text file in order to test how git works.
+We will going to mess up the file in order to see the difference when edited using git diff.
