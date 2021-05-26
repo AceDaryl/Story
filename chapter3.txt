@@ -1,1 +1,3 @@
 This is just a sample chapter 3 text file in order to test how git works.
+We will going to mess up the file in order to see the difference when edited using git diff.
+This is the second changes we will do and commit it and see how we can restore the file from previous file from the first time we commited it.
