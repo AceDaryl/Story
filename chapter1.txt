@@ -1,2 +1,2 @@
 This is just a sample txt file to test vim and Git repository
-Just trying to change the text and commit and compare it to remote repo using git diff
+Just trying to change the text and commit
