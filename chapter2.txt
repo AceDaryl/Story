@@ -1,1 +1,1 @@
-This is just sample chapter  2text file in order to test how git works.
+This is just sample chapter  2text file in order to test how git works. Added a little text here after before merging.
