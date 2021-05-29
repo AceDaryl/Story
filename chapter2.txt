@@ -1,1 +1,4 @@
-This is just sample chapter  2text file in order to test how git works.
+This is just sample chapter2 text file in order to test how git works.
+We are adding additional text to chapter2 in order to test git branching.
+In this case only in chapter2 in alien-plot branch should be change and not in master.
+After adding this 3 line change we should add and commit it after. And shift to master branch and see if there are changes.
